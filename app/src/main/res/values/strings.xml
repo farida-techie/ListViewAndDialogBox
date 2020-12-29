@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewAndDialogBox</string>
+    <string name="contact">Add the User Contact</string>
+</resources>
